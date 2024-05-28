@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1716862789 source:c:\users\usuario\desktop\tp-program\jsonreducido\main.c
+	<stdio.h>
+	<stdlib.h>
+	"curlResumido.h"
+	"pregunta.h"
+
+1716871697 source:c:\users\usuario\desktop\tp-program\jsonreducido\curlresumido.c
+	"curlResumido.h"
+
+1716581642 c:\users\usuario\desktop\tp-program\jsonreducido\curlresumido.h
+	<stdio.h>
+	<stdlib.h>
+	<curl/curl.h>
+
+1716904442 source:c:\users\usuario\desktop\tp-program\jsonreducido\pregunta.c
+	"pregunta.h"
+
+1716861960 c:\users\usuario\desktop\tp-program\jsonreducido\pregunta.h
+	<stdio.h>
+	<stdlib.h>
+	"miCJSON.h"
+
+1716904374 source:c:\users\usuario\desktop\tp-program\jsonreducido\micjson.c
+	"miCJSON.h"
+
+1716904330 c:\users\usuario\desktop\tp-program\jsonreducido\micjson.h
+	<stdio.h>
+	<stdlib.h>
+
